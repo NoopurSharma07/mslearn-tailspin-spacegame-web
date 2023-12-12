@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/noopurshrm/Noopur_AzureDevOps/_apis/build/status%2FNoopurSharma07.eShopOnWeb?branchName=azure-pipelines)](https://dev.azure.com/noopurshrm/Noopur_AzureDevOps/_build/latest?definitionId=1&branchName=azure-pipelines)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
